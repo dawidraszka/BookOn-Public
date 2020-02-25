@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BookOn</string>
+
+    <string name="find_book">Wyszukaj książkę</string>
+    <string name="title">Tytuł:</string>
+    <string name="isbn">ISBN:</string>
+    <string name="find">Wyszukaj</string>
+    <string name="save_search">Zapisz wyszukiwanie</string>
+    <string name="use_scanner">Użyj skanera</string>
+
+    <string name="title_hint">Podaj tytuł…</string>
+    <string name="isbn_hint">Podaj isbn…</string>
+
+    <string name="menu">&#8942;</string>
+
+    <string name="allegro">Allegro</string>
+    <string name="allegro_sort">Sortowanie: </string>
+    <string name="allegro_button">Pokaż \nw Allegro</string>
+    <string name="allegro_price">Cena:</string>
+    <string name="allegro_delivery">Z dostawą:</string>
+
+    <string name="saved_searches">Zapisane wyszukiwania</string>
+    <string name="save">Zapisz</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="cancel">Anuluj</string>
+
+    <string name="editing">Edycja</string>
+
+    <string name="no_permission_granted">Kliknij tutaj aby umożliwić skanowanie kodów ISBN</string>
+
+    <string-array name="sort_types_keys">
+        <item>-relevance</item>
+        <item>+price</item>
+        <item>-price</item>
+        <item>+withDeliveryPrice</item>
+        <item>-withDeliveryPrice</item>
+        <item>-popularity</item>
+    </string-array>
+
+    <string-array name="sort_types_values">
+        <item>trafność: największa</item>
+        <item>cena: od najniższej</item>
+        <item>cena: od najwyższej</item>
+        <item>cena z dostawą: od najniższej</item>
+        <item>cena z dostawą: od najwyższej</item>
+        <item>popularność: największa</item>
+    </string-array>
+</resources>

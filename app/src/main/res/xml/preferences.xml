@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="book_search_preference"
+        android:title="Prefer book search by: "
+        android:summaryOn="Title"
+        android:summaryOff="ISBN"/>
+</PreferenceScreen>

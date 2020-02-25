@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "898176843242",
+    "firebase_url": "https://bookon-646ab.firebaseio.com",
+    "project_id": "bookon-646ab",
+    "storage_bucket": "bookon-646ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898176843242:android:653af8773472858b",
+        "android_client_info": {
+          "package_name": "pl.dawidraszka.bookon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898176843242-thf7mp7hnpg5eqkaibj8rrdqimvbcbq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.dawidraszka.bookon",
+            "certificate_hash": "b0c88040671b8af020ccc75cdc730cd02eadab27"
+          }
+        },
+        {
+          "client_id": "898176843242-kamcsokub96kcb30ii0548qcqflevbcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.dawidraszka.bookon",
+            "certificate_hash": "c20a2ea566313c4f38521ed1301ae2aa2582af55"
+          }
+        },
+        {
+          "client_id": "898176843242-u5sk5eu4oc0jdr4knt87tsb0qqdevgas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wDfvYU44npjdYaL0lCU8huZDIq7f96g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898176843242-u5sk5eu4oc0jdr4knt87tsb0qqdevgas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
